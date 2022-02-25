@@ -1,0 +1,35 @@
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\DC-FormFlipper.exe
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\DC-FormFlipper.pdb
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\DC-FormFlipper.xml
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Core.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Data.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Deployment.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Drawing.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Windows.Forms.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Xml.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\bin\Debug\System.Xml.Linq.dll
+G:\Form Flipper\Copy of Tutorial Form Flipper\obj\Debug\ResolveAssemblyReference.cache
+G:\Form Flipper\Copy of Tutorial Form Flipper\obj\Debug\Form1.resources
+G:\Form Flipper\Copy of Tutorial Form Flipper\obj\Debug\Resources.resources
+G:\Form Flipper\Copy of Tutorial Form Flipper\obj\Debug\DC-FormFlipper.vbproj.GenerateResource.Cache
+G:\Form Flipper\Copy of Tutorial Form Flipper\obj\Debug\DC-FormFlipper.exe
+G:\Form Flipper\Copy of Tutorial Form Flipper\obj\Debug\DC-FormFlipper.xml
+G:\Form Flipper\Copy of Tutorial Form Flipper\obj\Debug\DC-FormFlipper.pdb
+G:\Form Flipper\Working Form Flipper\bin\Debug\DC-FormFlipper.exe
+G:\Form Flipper\Working Form Flipper\bin\Debug\DC-FormFlipper.pdb
+G:\Form Flipper\Working Form Flipper\bin\Debug\DC-FormFlipper.xml
+G:\Form Flipper\Working Form Flipper\bin\Debug\System.Data.dll
+G:\Form Flipper\Working Form Flipper\bin\Debug\System.Deployment.dll
+G:\Form Flipper\Working Form Flipper\bin\Debug\System.dll
+G:\Form Flipper\Working Form Flipper\bin\Debug\System.Drawing.dll
+G:\Form Flipper\Working Form Flipper\bin\Debug\System.Windows.Forms.dll
+G:\Form Flipper\Working Form Flipper\bin\Debug\System.Xml.dll
+G:\Form Flipper\Working Form Flipper\obj\Debug\ResolveAssemblyReference.cache
+G:\Form Flipper\Working Form Flipper\obj\Debug\Form1.resources
+G:\Form Flipper\Working Form Flipper\obj\Debug\Resources.resources
+G:\Form Flipper\Working Form Flipper\obj\Debug\DC-FormFlipper.vbproj.GenerateResource.Cache
+G:\Form Flipper\Working Form Flipper\obj\Debug\DC-FormFlipper.exe
+G:\Form Flipper\Working Form Flipper\obj\Debug\DC-FormFlipper.xml
+G:\Form Flipper\Working Form Flipper\obj\Debug\DC-FormFlipper.pdb

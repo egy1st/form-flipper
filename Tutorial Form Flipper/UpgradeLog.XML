@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DC-FormFlipper Tutorial">
+</Property><Property Name="Solution File" Value="I:\EgyFirst\Form Flipper\Tutorial Form Flipper\DC-FormFlipper Tutorial.sln">
+</Property><Property Name="User Options File" Value="I:\EgyFirst\Form Flipper\Tutorial Form Flipper\DC-FormFlipper Tutorial.suo">
+</Property><Property Name="Date" Value="Sunday, October 16, 2016">
+</Property><Property Name="Time" Value="2:50 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DC-FormFlipper Tutorial.sln" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\DC-FormFlipper Tutorial.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DC-FormFlipper Tutorial.suo" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\DC-FormFlipper Tutorial.suo">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="DC-FormFlipper Tutorial.vbproj" Description="Project file successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\DC-FormFlipper Tutorial.vbproj">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="Form1.Designer.vb" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="Form1.vb" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="My Project\Application.Designer.vb" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="My Project\Application.myapp" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="My Project\Settings.settings" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="Form1.resx" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="My Project\Resources.resx" Description="File successfully backed up as I:\EgyFirst\Form Flipper\Tutorial Form Flipper\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="DC-FormFlipper Tutorial.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DC-FormFlipper Tutorial" Source="DC-FormFlipper Tutorial.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DC-FormFlipper Tutorial.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DC-FormFlipper Tutorial.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DC-FormFlipper Tutorial" Source="DC-FormFlipper Tutorial.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

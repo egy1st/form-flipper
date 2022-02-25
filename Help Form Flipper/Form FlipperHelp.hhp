@@ -1,0 +1,28 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=DC Form Flipper v3.5.chm
+Contents file=DataMangerHelp.hhc
+Default topic=Dynamic Components Form Flipper.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=DataMangerHelp.hhk
+Language=0x409 English (United States)
+Title=DC Form Flipper Help
+
+
+[FILES]
+contact us.htm
+features.htm
+how to order.htm
+license.htm
+system requirements.htm
+Overview.htm
+Installing Form Flipper COM.htm
+Deploying Form Flipper COM Applications.htm
+Dynamic Components Form Flipper.htm
+Including DC Form Flipper.htm
+FlipForm.htm
+setRegistrationKey.htm
+
+[INFOTYPES]
+
